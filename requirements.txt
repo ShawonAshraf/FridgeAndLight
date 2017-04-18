@@ -1,0 +1,2 @@
+requests==2.13.0
+dropbox==7.2.1
